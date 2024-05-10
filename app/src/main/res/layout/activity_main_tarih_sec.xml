@@ -31,6 +31,8 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="307dp"
         android:text="HOŞGELDİNİZ!"
+        android:textColor="@color/black"
+        android:background="@drawable/kenarlikli_yesil_arkaplan"
         android:textAlignment="center"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
